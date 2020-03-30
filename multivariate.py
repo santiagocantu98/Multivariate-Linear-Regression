@@ -22,8 +22,6 @@ def main():
     to get the minimum square error for the testing data
     after finding the minimum values of w0 and w1
   """
-  # starts time
-  time_start = time.clock()
   # Initializing learning rate
   learning_rate = 0.0005
   # Initializing stopping criteria
